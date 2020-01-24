@@ -1,0 +1,12 @@
+C:/usr/Prg/HeapSort/HeapSort/bin/x64/Release/HeapSort.exe.config
+C:/usr/Prg/HeapSort/HeapSort/bin/x64/Release/HeapSort.exe
+C:/usr/Prg/HeapSort/HeapSort/bin/x64/Release/HeapSort.pdb
+C:/usr/Prg/HeapSort/HeapSort/obj/x64/Release/HeapSort.csproj.CoreCompileInputs.cache
+C:/usr/Prg/HeapSort/HeapSort/obj/x64/Release/HeapSort.exe
+C:/usr/Prg/HeapSort/HeapSort/obj/x64/Release/HeapSort.pdb
+/Users/pic/Projects/HeapSort/HeapSort/bin/x64/Release/HeapSort.exe.config
+/Users/pic/Projects/HeapSort/HeapSort/bin/x64/Release/HeapSort.exe
+/Users/pic/Projects/HeapSort/HeapSort/bin/x64/Release/HeapSort.pdb
+/Users/pic/Projects/HeapSort/HeapSort/obj/x64/Release/HeapSort.csprojAssemblyReference.cache
+/Users/pic/Projects/HeapSort/HeapSort/obj/x64/Release/HeapSort.exe
+/Users/pic/Projects/HeapSort/HeapSort/obj/x64/Release/HeapSort.pdb
