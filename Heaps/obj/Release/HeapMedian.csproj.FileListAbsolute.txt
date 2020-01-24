@@ -1,6 +1,0 @@
-/Users/pic/Projects/HeapMedian/HeapMedian/bin/Release/HeapMedian.exe.config
-/Users/pic/Projects/HeapMedian/HeapMedian/bin/Release/HeapMedian.exe
-/Users/pic/Projects/HeapMedian/HeapMedian/bin/Release/HeapMedian.pdb
-/Users/pic/Projects/HeapMedian/HeapMedian/obj/Release/HeapMedian.csprojAssemblyReference.cache
-/Users/pic/Projects/HeapMedian/HeapMedian/obj/Release/HeapMedian.exe
-/Users/pic/Projects/HeapMedian/HeapMedian/obj/Release/HeapMedian.pdb
