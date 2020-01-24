@@ -19,7 +19,7 @@ namespace Heaps
             int root = length - 1;
             while (root >= 0)
             {
-                Maxify1(array, length, root);// hi
+                Maxify1(array, length, root);
                 --root;
             }
             return array[0];
