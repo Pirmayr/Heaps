@@ -1,5 +1,4 @@
 // ReSharper disable TooWideLocalVariableScope
-
 // ReSharper disable JoinDeclarationAndInitializer
 
 using System;

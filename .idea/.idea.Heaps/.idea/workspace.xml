@@ -1,107 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52b0c510-a6d1-434b-9a53-5e85c595551c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeapMedian/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeapMedian/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeapMedian/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeapMedian/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeapMedian/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeapMedian/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeapSort/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeapSort/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeapSort/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeapSort/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeapSort/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeapSort/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Heaps/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Heaps/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Heaps/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Heaps/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Heaps/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Heaps/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Heaps/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Heaps/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/HeapSort/v15/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/HeapSort/v15/Server/sqlite3/db.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/HeapSort/v15/Server/sqlite3/storage.ide" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/HeapSort/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/HeapSort/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/HeapSort/xs/UserPrefs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/HeapSort/xs/project-cache/HeapSort-Debug.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/HeapSort/xs/sqlite3/db.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/HeapSort/xs/sqlite3/storage.ide" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/App.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/HeapMedian.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/Heaps.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/QuickSelect.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/Debug/HeapMedian.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/Debug/HeapMedian.exe.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/Debug/HeapMedian.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/Debug/HeapSort.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/Debug/HeapSort.exe.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/Debug/HeapSort.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/Release/HeapMedian.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/Release/HeapMedian.exe.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/Release/HeapMedian.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/x64/Debug/HeapSort.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/x64/Debug/HeapSort.exe.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/x64/Debug/HeapSort.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/x64/Debug/Heaps.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/x64/Debug/Heaps.exe.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/x64/Debug/Heaps.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/x64/Release/HeapMedian.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/x64/Release/HeapMedian.exe.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/bin/x64/Release/HeapMedian.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Debug/HeapMedian.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Debug/HeapMedian.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Debug/HeapMedian.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Debug/HeapMedian.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Debug/HeapSort.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Debug/HeapSort.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Debug/HeapSort.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Debug/HeapSort.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Debug/HeapSort.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Debug/Heaps.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Release/HeapMedian.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Release/HeapMedian.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Release/HeapMedian.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/Release/HeapMedian.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Debug/HeapMedian.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Debug/HeapMedian.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Debug/HeapMedian.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Debug/HeapMedian.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Debug/HeapSort.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Debug/HeapSort.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Debug/HeapSort.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Debug/HeapSort.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Debug/HeapSort.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Release/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Release/HeapMedian.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Release/HeapMedian.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Release/HeapMedian.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Release/HeapMedian.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Release/HeapSort.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Release/HeapSort.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Release/HeapSort.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Release/HeapSort.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Release/HeapSort.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Release/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/obj/x64/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
-    </list>
+    <list default="true" id="52b0c510-a6d1-434b-9a53-5e85c595551c" name="Default Changelist" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,8 +79,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579880458725</updated>
-      <workItem from="1579880460404" duration="981000" />
+      <workItem from="1579880460404" duration="1305000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1579881951370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579881951370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,14 +132,18 @@
       </set>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="229" y="74" key="SettingsEditor" timestamp="1579880874561">
       <screen x="0" y="23" width="1440" height="824" />
     </state>
     <state x="229" y="74" key="SettingsEditor/0.23.1440.824@0.23.1440.824" timestamp="1579880874561" />
-    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1579881608880">
+    <state x="170" y="139" width="935" height="620" key="Vcs.Push.Dialog.v2" timestamp="1579882015285">
       <screen x="0" y="23" width="1440" height="824" />
     </state>
-    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.824@0.23.1440.824" timestamp="1579881608880" />
+    <state x="170" y="139" width="935" height="620" key="Vcs.Push.Dialog.v2/0.23.1440.824@0.23.1440.824" timestamp="1579882015285" />
   </component>
 </project>
