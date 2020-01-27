@@ -9,10 +9,12 @@ namespace Heaps
     {
         public static void Main()
         {
+            /*
             DumpBinaryTree(0, 0, 4);
             return;
-            /*
-            const int Length = 10000;
+            */
+            
+            const int Length = 1000000;
             const int Repetitions = 1; // 100000;
             long comparisonsSum1 = 0;
             long swapsSum1 = 0;
@@ -31,7 +33,7 @@ namespace Heaps
             }
             WriteLine($"Average Swaps: {swapsSum1 / Repetitions} Average Comparisons: {comparisonsSum1 / Repetitions}");
             WriteLine($"Average Swaps: {swapsSum2 / Repetitions} Average Comparisons: {comparisonsSum2 / Repetitions}");
-            */
+           
         }
 
         private static void Dump(int[] array)
@@ -77,7 +79,7 @@ namespace Heaps
 
         private static void InitializeArray(int[] array, int seed)
         {
-            Random random = new Random(seed);
+            Random random = new Random(/*seed*/);
             int length = array.Length;
             for (int i = 0; i < length; ++i)
             {
