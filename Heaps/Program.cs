@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Diagnostics;
 
 // ReSharper disable TooWideLocalVariableScope
 
@@ -9,11 +8,8 @@ namespace Heaps
     {
         public static void Main()
         {
-            /*
-            DumpBinaryTree(0, 0, 4);
-            return;
-            */
-            
+            // DumpBinaryTree(0, 0, 3);
+            // return;
             const int Length = 1000000;
             const int Repetitions = 1; // 100000;
             long comparisonsSum1 = 0;
@@ -33,7 +29,6 @@ namespace Heaps
             }
             WriteLine($"Average Swaps: {swapsSum1 / Repetitions} Average Comparisons: {comparisonsSum1 / Repetitions}");
             WriteLine($"Average Swaps: {swapsSum2 / Repetitions} Average Comparisons: {comparisonsSum2 / Repetitions}");
-           
         }
 
         private static void Dump(int[] array)
@@ -63,23 +58,26 @@ namespace Heaps
                 {
                     Write(new string('-', currentLevel + 1));
                     WriteLine((startNumber + 1).ToString());
-                    DumpBinaryTree(3 * startNumber + 1, currentLevel + 1, maximalLevel);
+                    DumpBinaryTree(4 * startNumber + 1, currentLevel + 1, maximalLevel);
                     ++startNumber;
                     Write(new string('-', currentLevel + 1));
                     WriteLine((startNumber + 1).ToString());
-                    DumpBinaryTree(3 * startNumber + 1, currentLevel + 1, maximalLevel);
+                    DumpBinaryTree(4 * startNumber + 1, currentLevel + 1, maximalLevel);
                     ++startNumber;
                     Write(new string('-', currentLevel + 1));
                     WriteLine((startNumber + 1).ToString());
-                    DumpBinaryTree(3 * startNumber + 1, currentLevel + 1, maximalLevel);
-
+                    DumpBinaryTree(4 * startNumber + 1, currentLevel + 1, maximalLevel);
+                    ++startNumber;
+                    Write(new string('-', currentLevel + 1));
+                    WriteLine((startNumber + 1).ToString());
+                    DumpBinaryTree(4 * startNumber + 1, currentLevel + 1, maximalLevel);
                 }
             }
         }
 
         private static void InitializeArray(int[] array, int seed)
         {
-            Random random = new Random(/*seed*/);
+            Random random = new Random(seed);
             int length = array.Length;
             for (int i = 0; i < length; ++i)
             {
@@ -90,6 +88,10 @@ namespace Heaps
         private static void PerformTest(int[] array, int seed, int testIndex, int repetitions)
         {
             InitializeArray(array, seed);
+            if (repetitions == 1)
+            {
+                Dump(array);
+            }
             switch (testIndex)
             {
             case 1:
@@ -109,13 +111,11 @@ namespace Heaps
         private static void Write(string formatString, params object[] values)
         {
             Console.Write(formatString, values);
-            Debug.Write(string.Format(formatString, values));
         }
 
         private static void WriteLine(string formatString, params object[] values)
         {
             Console.WriteLine(formatString, values);
-            Debug.WriteLine(formatString, values);
         }
     }
 }
